@@ -321,3 +321,6 @@ if __name__ == "__main__":
     print("\n--- 4. SYSTEM STATUS REPORT ---")
     engine.get_global_status_report()
 
+
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj) For Succes !!!
